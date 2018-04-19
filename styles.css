@@ -1,0 +1,58 @@
+body {
+     background-color: #DCDCDC;
+     font-family: 'IBM Plex Mono', monospace-light;
+     text-shadow: 0 2px 4px rgba(0,0,0,0.50);
+     color: #DCDCDC;
+     margin: 0 auto;
+}
+ #background{
+     background-image: url(backgroundCover.png);
+     background-size: auto 120%;
+     margin: 0 auto;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+ a{
+     text-decoration: underline;
+     font-family: 'IBM Plex Mono', monospace-Bold;
+     font-style: italic;
+     color: #D43A98;
+}
+ #container{
+     padding-top:12%;
+     padding-bottom: 6%;
+     padding-left: 20%;
+     padding-right: 20%;
+     text-align: center;
+     align-content: center;
+}
+ h1{
+     text-transform: uppercase;
+    /* logo: */
+     font-family: 'IBM Plex Mono', monospace-Bold;
+     font-weight: 600;
+     font-size: 26px;
+     letter-spacing: 14px;
+}
+ h2{
+    /* platform: */
+     font-size: 14px;
+     text-transform: uppercase;
+     letter-spacing: 5px;
+     word-spacing: 60px;
+     padding: 3%;
+}
+ p{
+     font-size: 12px;
+     line-height: 28px;
+     text-align: left;
+     padding-left: 2%;
+     padding-right: 2%;
+     font-family: 'IBM Plex Mono', monospace;
+}
+ footer{
+     padding: 35px;
+     font-size: 10px;
+     text-transform: uppercase;
+     letter-spacing: 3px;
+}
