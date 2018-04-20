@@ -6,7 +6,7 @@ body {
      margin: 0 auto;
 }
  #background{
-     background-image: url(backgroundCover.png);
+     background-image: url(pipely-web/backgroundCover.png);
      background-size: auto 120%;
      margin: 0 auto;
      background-repeat: no-repeat;
