@@ -23,14 +23,7 @@ body {
 }
 
 }
- h1{
-     text-transform: uppercase;
-    /* logo: */
-     font-family: 'IBM Plex Mono', monospace-Bold;
-     font-weight: 600;
-     font-size: 26px;
-     letter-spacing: 14px;
-}
+
 
 @media only screen and (max-width: 780px) {
    
@@ -46,6 +39,15 @@ body {
      align-content: center;
     margin-top: 12%;
     
+}
+
+ h1{
+     text-transform: uppercase;
+    /* logo: */
+     font-family: 'IBM Plex Mono', monospace-Bold;
+     font-weight: 600;
+     font-size: 26px;
+     letter-spacing: 14px;
 }
 
  h2{
