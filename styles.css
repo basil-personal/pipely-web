@@ -1,11 +1,7 @@
 body {
-     background-color: #DCDCDC;
      font-family: 'IBM Plex Mono', monospace-light;
      text-shadow: 0 2px 4px rgba(0,0,0,0.50);
      color: #DCDCDC;
-     margin: 0 auto;
-}
- #background{
      background-image: url(backgroundCover.png);
      background-size: auto 120%;
      margin: 0 auto;
