@@ -3,7 +3,7 @@ body {
      text-shadow: 0 2px 4px rgba(0,0,0,0.50);
      color: #DCDCDC;
      background-image: url(backgroundCover.png);
-     background-size: 180%;
+     background-size: auto;
      margin: 0 auto;
      background-repeat: no-repeat;
      background-position: center;
